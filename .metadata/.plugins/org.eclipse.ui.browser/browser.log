@@ -1,0 +1,10 @@
+
+Jun 14, 2023 13:05:37.466 NEW SESSION
+Jun 14, 2023 13:05:37.466 [4012:1464:0614/130537.463:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 14, 2023 13:05:58.61 [4012:1464:0614/130558.061:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 14, 2023 13:06:55.117 [4012:1464:0614/130655.117:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 14, 2023 13:08:20.31 [4012:1464:0614/130820.031:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 14, 2023 13:12:12.396 [4012:1464:0614/131212.395:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 14, 2023 13:19:02.804 [4012:1464:0614/131902.804:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 14, 2023 13:29:02.809 [4012:1464:0614/132902.809:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 14, 2023 13:39:02.822 [4012:1464:0614/133902.822:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
